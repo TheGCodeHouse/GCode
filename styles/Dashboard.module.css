@@ -1,0 +1,71 @@
+.tutoringSessionCard {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: IBM Plex Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  display: flex;
+  align-content: row;
+}
+
+.tutoringSessionCard {
+  display: flex;
+  align-content: row;
+  justify-content: space-between;
+}
+
+.tutoringSessionName {
+  margin-top: 10px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.tutoringSessionTextDetails {
+  margin-left: 20px;
+  margin-top: 10px;
+  text-align: left;
+  
+  /* width: 50pc; */
+}
+
+.tutoringSessionLogistics {
+  margin-top: 10px;
+  font-family: IBM Plex Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25px;
+  letter-spacing: 0em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  color: #00777f;
+}
+
+.tutoringSessionDate {
+  margin-right: 20px;
+  margin-left: 5px;
+  text-align: left;
+  /* display: flex; */
+  color: #00777f;
+}
+
+.tutoringSessionTime {
+  margin-right: 20px;
+  margin-left: 5px;
+  text-align: left;
+  color: #00777f;
+}
+
+.tutoringSessionImage {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
